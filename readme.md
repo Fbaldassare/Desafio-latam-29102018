@@ -10,18 +10,19 @@ Espectativas del cliente
 Material entregado por el cliente:
 
 Estructura del directorio del sitio web:
-Desafio-latam-29102018
-|--assets
-| |--css
-| |  |--style.css (hoja de estilos del sitio)
-| |
-| |--js
-| |  |--script.js (hoja de javascript)
-| |
-| |--img
-| |  |--Aquíse guarán todas las imágenes
-| |
-| |--fonts
-|   |--fuentes
-|
-|--index.html
+	Desafio-latam-29102018
+	|--assets
+	| |--css
+	| |  |--style.css (hoja de estilos del sitio)
+	| |
+	| |--js
+	| |  |--script.js (hoja de javascript)
+	| |
+	| |--img
+	| |  |--Aquíse guarán todas las imágenes
+	| |
+	| |--fonts
+	|   |--fuentes
+	|
+	|--index.html
+
