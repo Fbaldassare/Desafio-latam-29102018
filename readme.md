@@ -26,3 +26,24 @@ Estructura del directorio del sitio web:
 	|
 	|--index.html
 
+Estructura del Html:
+	<body>
+		<header>
+			<nav></nav>
+		</header>
+		<main>
+			<section class="what_we_do"></section>
+			<section class="about_us"></section>
+			<section class="get_it"></section>
+		</main>
+		<footer>
+		</footer>
+	</body>
+
+Manual de Uso
+	Colores:
+		Jelly Bean: #e56353
+		Granite Gray: #686963
+		Nickel: #707070
+		Snow: #FAFAFA
+		White: #FFFFFF
