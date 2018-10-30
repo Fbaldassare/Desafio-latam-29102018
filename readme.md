@@ -48,3 +48,39 @@ Manual de Uso
 		Nickel: #707070
 		Snow: #FAFAFA
 		White: #FFFFFF
+
+	Tipofrafías
+		Fuentes:
+			Raleway-Bold.ttf
+			Raleway-ExtraLight.ttf
+			OpenSans-regular.ttf
+
+		Utilización de Tipografías:
+			h1: Títulos de Sección
+				font-size: 65px;
+				font-family: 'Raleway', sans-serif;
+				font-weight: 200;
+				text-align: center;
+				color: white;
+
+				*además se agregará un span class, para negrita y para mayúsculas. 
+					    font-weight: 700;
+    					text-transform: uppercase;
+			
+			h2:	Títulos de párrafos
+				font-size: 25px;
+    			font-family: 'Raleway', sans-serif;
+    			font-weight: 700;
+    			text-align: left;
+			
+			p: Párrafos
+				font-size:14px;
+    			font-family: 'Open Sans';
+    			text-align: left;
+
+			Colores de Párrafos:
+				color: #686963
+				
+				*Para párrafos en fondo gris:
+					color:white;
+

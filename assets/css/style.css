@@ -1,0 +1,32 @@
+h1{
+    font-size: 65px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    color: white;
+}
+
+.tittle{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-align: left;
+}
+
+p{
+    font-size:14px;
+    font-family: 'Open Sans';
+    text-align: left;
+}
+.Text__normal_color{
+    color: #686963    
+}
+.Text__right_color{
+    color:white;
+}
+
