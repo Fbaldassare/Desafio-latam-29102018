@@ -41,6 +41,7 @@ Estructura del Html:
 	</body>
 
 Manual de Uso
+	![Paleta de Colores]('assets/Colors/colors.png)
 	Colores:
 		Jelly Bean: #e56353
 		Granite Gray: #686963
